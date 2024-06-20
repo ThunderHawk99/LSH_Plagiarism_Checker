@@ -1,0 +1,6 @@
+﻿"1125 iterations, 350 original x 0 paraphrased versions & 350 suspicious files"
+Instance,Time taken for optimization (s),Time taken for LSH (s),F1-Score (0-1)
+Word-based with 0.3 keyword ratio,394.00290393829346,3.2085514068603516,0.43137254902084665
+Char-based with 0.3 keyword ratio,389.61855912208557,16.94179940223694,0.4237668161447897
+Char-based,387.3051378726959,16.733638525009155,0.42628205128389013
+Word-based,387.35861372947693,3.159041404724121,0.44164759725528224
